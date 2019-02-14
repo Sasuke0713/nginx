@@ -1,0 +1,7 @@
+DEPENDENCIES
+  nginx-cookbook
+    path: .
+    metadata: true
+
+GRAPH
+  nginx-cookbook (0.1.0)
