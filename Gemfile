@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 gem 'berkshelf', '~> 5.0'
 gem 'chefspec', '= 7.2.1'
 gem 'rake', '~> 12.0'
-gem 'roll_out', '~> 1.15'
-gem 'roll_out-jira', '~> 1.4'
 
 group :integration do
   gem 'kitchen-inspec', '~> 0.22'
